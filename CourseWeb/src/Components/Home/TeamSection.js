@@ -10,15 +10,21 @@ const people = [
 		imageUrl: '/images/Charles.jpg',
 		email: "mailto:cyusuf@Africa.cmu.edu"
 	},{
-		name: 'Mohammed Danish',
+		name: 'Zhongyuan Zhai',
 		role: 'Teaching Assitant',
-		imageUrl: '/images/Danish.jpg',
-		email: "mailto:mohamme2@andrew"
+		imageUrl: '/images/zhongyuan.jpeg',
+		email: "mailto:zhongyuz@andrew"
 	},{
-		name: 'Yinghao Ma',
+		name: 'Yuxuan Wu',
 		role: 'Teaching Assitant',
-		imageUrl: '/images/yinghao.jpg',
-		email: "mailto:yinghaom@andrew"
+		imageUrl: '/images/yuxuan.jpeg',
+		email: "mailto:yuxuanw2@andrew"
+	},
+	{
+		name: 'Ravi Kiran Vadlamani',
+		role: 'Teaching Assitant',
+		imageUrl: '/images/Ravi.jpeg',
+		email: "mailto:rvadlama@andrew"
 	}
 	// More people...
 ]
