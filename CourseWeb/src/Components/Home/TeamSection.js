@@ -12,7 +12,7 @@ const people = [
 	},{
 		name: 'Zhongyuan Zhai',
 		role: 'Teaching Assitant',
-		imageUrl: '/images/zhongyuan.jpeg',
+		imageUrl: '/images/zhongyuan.jpg',
 		email: "mailto:zhongyuz@andrew"
 	},{
 		name: 'Yuxuan Wu',
