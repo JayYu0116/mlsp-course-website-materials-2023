@@ -4,57 +4,68 @@ const assignments = [
 	{
 		title: 'First Assignment',
 		description: 'Introduction, Linear Algebra, Optimization',
-		dueDate: '09/21/2021 at 11:59 PM EST/EDT',
+		dueDate: '09/20/2022 at 11:59 PM EST/EDT',
 		attachments: [
 			{
 				title: 'Writeup',
-				link: '/hw/hw1writeup.pdf'
+				// link: '/hw/hw1writeup.pdf'
+				link: '#'
 			},
 			{
 				title: 'Data',
-				link: '/hw/hw1materials.rar'
+				// link: '/hw/hw1materials.rar'
+				link: '#'
 			}
 		]
 	},{
 		title: 'Second Assignment',
 		description: 'Data-Driven Representations, Boosting, Face Detection',
-		dueDate: '10/12/2021 at 11:59 PM EST/EDT',
+		// dueDate: '10/12/2022 at 11:59 PM EST/EDT',
+		dueDate: 'TBA',
 		attachments: [
 			{
 				title: 'Writeup',
-				link: '/hw/hw2_handout (1).pdf'
+				// link: '/hw/hw2_handout (1).pdf'
+				link: '#'
 			},
 			{
 				title: 'Data',
-				link: '/hw/hw2_materials_f21.rar'
+				// link: '/hw/hw2_materials_f21.rar'
+				link: '#'
 			}
 		]
 	},{
 		title: 'Third Assignment',
 		description: 'NMF, Clustering, Sparse Optimization, SVMs',
-		dueDate: '11/04/2021 at 11:59 PM EST/EDT',
+		// dueDate: '11/04/2022 at 11:59 PM EST/EDT',
+		dueDate: 'TBA',
 		attachments: [
 			{
 				title: 'Writeup',
-				link: '/hw/hw3_handout.pdf'
+				// link: '/hw/hw3_handout.pdf'
+				link: '#'
 			},
 			{
 				title: 'Data',
-				link: '/hw/hw3_materials_f21.zip'
+				// link: '/hw/hw3_materials_f21.zip'
+				link: '#'
 			}
 		]
 	},{
 		title: 'Fourth Assignment',
 		description: 'Maximum Likelihood Estimation, Expectation Maximization',
-		dueDate: '11/23/2021 at 11:59 PM EST/EDT',
+		// dueDate: '11/23/2022 at 11:59 PM EST/EDT',
+		dueDate: 'TBA',
 		attachments: [
 			{
 				title: 'Writeup',
-				link: '/hw/hw4_handout.pdf'
+				// link: '/hw/hw4_handout.pdf'
+				link: '#'
 			},
 			{
 				title: 'Data',
-				link: '/hw/hw4materials_f21.zip'
+				// link: '/hw/hw4materials_f21.zip'
+				link: '#'
 			}
 		]
 	},{
