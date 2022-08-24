@@ -57,8 +57,8 @@ export default function CourseDetailsSection() {
 						03:05 PM to 04:25 PM EST/EDT. <br /> 
 						<strong className="text-indigo-600">Location (in person): </strong>
 						Doherty Hall (DH) A302, at basement one. <br /><br />
-						{/* <strong className="text-indigo-600">Zoom ID:</strong> 984 6390 8291 <br /> 
-						<strong className="text-indigo-600">Passcode:</strong> see at piazza or use the <a href="https://cmu.zoom.us/j/98463908291?pwd=TUhDbFZCL2ZkM2tzRFN4ZG9YTHBUZz09" className="text-indigo-500 underline">zoom link</a>. <br />  */}
+						<strong className="text-indigo-600">Zoom ID:</strong> 933 2753 0920 <br /> 
+						<strong className="text-indigo-600">Passcode:</strong> see at piazza or use the <a href="https://cmu.zoom.us/j/93327530920?pwd=aURmb28vNFhMQXRXU2ozekhFQXpUdz09" className="text-indigo-500 underline">zoom link</a>. <br /> 
 						
 						
 						
