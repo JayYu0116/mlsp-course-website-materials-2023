@@ -1,119 +1,126 @@
 const lectures = [
 	{
 		topic: 'Introduction',
-		date: 'August 31, 2021',
+		date: 'August 30, 2022',
 		link: '/ppt/Lecture1.Introduction.pdf'
 	}, 
 	{
 		topic: 'Linear Algebra 1',
-		date: 'September 2, 2021',
+		date: 'September 1, 2022',
 		link: '/ppt/Lec2 LinearAlgebra1.pdf'
 	},
 	{
 		topic: 'Linear Algebra 2',
-		date: 'September 7, 2021',
+		date: 'September 6, 2022',
 		link: '/ppt/Lec3  LinearAlgebra2.pdf'
 	},{
 		topic: 'Optimization',
-		date: 'September 9, 2021',
+		date: 'September 8, 2022',
 		link: '/ppt/Lec4 with extension.rar'
 	},{
 		topic: 'Deterministic Representations 1',
-		date: 'September 14, 2021',
+		date: 'September 13, 2022',
 		link: '/ppt/Lecture5_deterministicreps.pdf'
 	},{
 		topic: 'Data-Driven Representations 2',
-		date: 'September 16, 2021',
+		date: 'September 15, 2022',
 		link: '/ppt/Lecture6.EigenRepresentations.pdf'
 	},{
 		topic: 'Classification and Metaclassifiers',
-		date: 'September 21, 2021',
+		date: 'September 20, 2022',
 		link: '/ppt/Lecture7.BoostingOnly.pdf'
 	},{
 		topic: 'Face Detection',
-		date: 'September 23, 2021',
+		date: 'September 22, 2022',
 		link: '/ppt/Lecture8.facedetection.pdf'
 	},
 	{
 		topic: 'Non-Negative Matrix Factorization',
-		date: 'September 28, 2021',
+		date: 'September 27, 2022',
 		link: '/ppt/Lecture9.NMF.pdf'
 	},{
 		topic: 'Probability and Information Theory',
-		date: 'September 30, 2021',
+		date: 'September 29, 2022',
 		link: '/ppt/Lecture10.ProbInfoth.pdf'
 	},{
 		topic: 'Independent Component Analysis 1',
-		date: 'October 5, 2021',
+		date: 'October 4, 2022',
 		link: '/ppt/Lecture ICA new2.pdf'
 	},{
 		topic: 'Independent Component Analysis 2',
-		date: 'October 7, 2021',
+		date: 'October 6, 2022',
 		link: '/ppt/Lecture ICA new2.pdf'
 	},{
 		topic: 'Clustering',
-		date: 'October 12, 2021',
+		date: 'October 11, 2022',
 		link: '/ppt/Lecture13.clustering.pdf'
 	},{
-		topic: 'Happy holiday !!!',
-		date: 'October 14, 2021',
-		link: '#'
-	},{
 		topic: 'Dictionary Representations',
-		date: 'October 19, 2021',
+		date: 'October 13, 2022',
 		link: '/ppt/Lecture14 sparseovercomplete.pdf'
 	},{
+		topic: 'Happy break !!!',
+		date: 'October 18, 2022',
+		link: '#'
+	},{
+		topic: 'Happy break !!!',
+		date: 'October 20, 2022',
+		link: '#'
+	},{
 		topic: 'Guest Lecture: Compressed Sensing',
-		date: 'October 21, 2021',
+		date: 'October 25, 2022',
 		link: '/ppt/21_10_Bhiksha.pdf'
 	},{
 		topic: 'Regression and Prediction',
-		date: 'October 26, 2021',
+		date: 'October 27, 2022',
 		link: '/ppt/Lecture15.regression.pdf'
 	},{
 		topic: 'Linear Classifiers',
-		date: 'October 28, 2021',
+		date: 'November 1, 2022',
 		link: '/ppt/lec17 SVM.pdf'
 	},{
 		topic: 'Expectation Maximization 1',
-		date: 'November 2, 2021',
+		date: 'November 3, 2022',
 		link: '/ppt/EMpdf.pdf'
 	},{
 		topic: 'Expectation Maximization 2',
-		date: 'November 4, 2021',
+		date: 'November 8, 2022',
 		link: '/ppt/EMpdf.pdf'
 	},{
 		topic: 'Factor Analysis',
-		date: 'November 9, 2021',
+		date: 'November 10, 2022',
 		link: '/ppt/lsc20 FA.pdf'
 	},{
 		topic: 'Supervised Representations',
-		date: 'November 11, 2021',
+		date: 'November 15, 2022',
 		link: '/ppt/Lecture21.CCA_LDA.pdf'
 	},{
 		topic: 'Hidden Markov Models 1',
-		date: 'November 16, 2021',
+		date: 'November 17, 2022',
 		link: '/ppt/Lecture22.HMM.pdf'
 	},{
 		topic: 'Hidden Markov Models 2',
-		date: 'November 18, 2021',
+		date: 'November 22, 2022',
 		link: '/ppt/Lecture22.HMM v2.pdf'
 	},{
-		topic: 'Non-Linear Dynamical Systems',
-		date: 'November 23, 2021',
-		link: '/ppt/Nonlinear Dynamics.pdf'
-	},{
 		topic: 'Happy Thanksgiving!',
-		date: 'November 25, 2021',
+		date: 'November 24, 2022',
 		link: '#'
 	},{
+		topic: 'Non-Linear Dynamical Systems',
+		date: 'November 29, 2022',
+		link: '/ppt/Nonlinear Dynamics.pdf'
+	},{
 		topic: 'Kalman Filtering 1',
-		date: 'November 30, 2021',
+		date: 'December 1, 2022',
 		link: '/ppt/Lecture23.pdf'
-	},
-	{
+	},{
 		topic: 'Kalman Filtering 2',
-		date: 'December 2, 2021',
+		date: 'December 6, 2022',
+		link: '/ppt/Lecture24x.kalman.pdf'
+	},{
+		topic: 'Particle Filtering',
+		date: 'December 8, 2022',
 		link: '/ppt/Lecture24x.kalman.pdf'
 	}
 ]
