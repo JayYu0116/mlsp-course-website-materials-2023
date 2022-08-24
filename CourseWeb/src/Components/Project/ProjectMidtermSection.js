@@ -8,12 +8,12 @@ export default function ProjectMidtermSection() {
 				Due Date
 			</span>
 			<p className="text-xl leading-7 text-gray-500 mb-4">
-			We hope the first part of the semester has been good! We want to check in with your team about how your project has been going. The midterm report is due on November 10th, 2021 at 11:59 PM EST. 
+			We hope the first part of the semester has been good! We want to check in with your team about how your project has been going. The midterm report is due on November 10th, 2022 at 11:59 PM EST. 
 			</p>
 			<p className="text-xl leading-7 text-gray-500 mb-4">
 			Below, we've enumerated several items that your midterm report must include. Your submission must follow the&nbsp;
-				<a href="https://nips.cc/Conferences/2020/PaperInformation/StyleFiles" className="text-indigo-600">
-					NeurIPS 2020 style template&nbsp;
+				<a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx" className="text-indigo-600">
+					NeurIPS 2022 style template&nbsp;
 				</a>
 				and not be longer than two pages. References do not count towards your two-page limit. Your team's midterm report should be submitted as a PDF using Canvas. Each group only needs to submit one copy of the report. You can submit your report as many times as you need before the deadline. Please name your PDF "midterm-{"{group number}"}.pdf". Your report will be graded with the following things in mind:
 			</p>

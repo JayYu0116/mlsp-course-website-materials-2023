@@ -8,12 +8,12 @@ export default function ProjectProposalSection() {
 				Due Date
 			</span>
 			<p className="text-xl leading-7 text-gray-500 mb-4">
-				Now that you all have your teams, it's time to write the proposal for your project. Your proposal will be due on September 30th, 2021 at 11:59 PM EST. Once the course staff has had time to review your proposal, we will assign a mentor to your team.
+				Now that you all have your teams, it's time to write the proposal for your project. Your proposal will be due on September 30th, 2022 at 11:59 PM EST. Once the course staff has had time to review your proposal, we will assign a mentor to your team.
 			</p>
 			<p className="text-xl leading-7 text-gray-500 mb-4">
 				Below, we've enumerated several items that your proposal must include. Your submission must follow the&nbsp;
-				<a href="https://nips.cc/Conferences/2020/PaperInformation/StyleFiles" className="text-indigo-600">
-					NeurIPS 2020 style template&nbsp;
+				<a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx" className="text-indigo-600">
+					NeurIPS 2022 style template&nbsp;
 				</a>
 				and not be longer than two pages. Your team's proposal should be submitted as a PDF using Canvas. Each group only needs to submit one copy of the proposal. You can submit your proposal as many times as you need before the deadline. Please name your PDF "proposal-{"{group number}"}.pdf".
 			</p>
