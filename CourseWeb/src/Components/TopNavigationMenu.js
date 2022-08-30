@@ -8,7 +8,7 @@ const navigation = [
 { name: 'Home', href: '/' },
 { name: 'Lectures', href: '/lectures' },
 { name: 'Homework', href: '/homework' },
-{ name: 'Project', href: '/project' },
+{ name: 'Challenge', href: '/project' },
 ]
 
 export default function TopNavigationMenu() {
