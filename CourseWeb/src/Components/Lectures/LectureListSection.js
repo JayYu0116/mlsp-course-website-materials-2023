@@ -7,57 +7,70 @@ const lectures = [
 	{
 		topic: 'Linear Algebra 1',
 		date: 'September 1, 2022',
-		link: '/ppt/Lec2 LinearAlgebra1.pdf'
+		// link: '/ppt/Lec2 LinearAlgebra1.pdf'
+		link: '#'
 	},
 	{
 		topic: 'Linear Algebra 2',
 		date: 'September 6, 2022',
-		link: '/ppt/Lec3  LinearAlgebra2.pdf'
+		// link: '/ppt/Lec3  LinearAlgebra2.pdf'
+		link: '#'
 	},{
 		topic: 'Optimization',
 		date: 'September 8, 2022',
-		link: '/ppt/Lec4 with extension.rar'
+		// link: '/ppt/Lec4 with extension.rar'
+		link: '#'
 	},{
 		topic: 'Deterministic Representations 1',
 		date: 'September 13, 2022',
-		link: '/ppt/Lecture5_deterministicreps.pdf'
+		// link: '/ppt/Lecture5_deterministicreps.pdf'
+		link: '#'
 	},{
 		topic: 'Data-Driven Representations 2',
 		date: 'September 15, 2022',
-		link: '/ppt/Lecture6.EigenRepresentations.pdf'
+		// link: '/ppt/Lecture6.EigenRepresentations.pdf'
+		link: '#'
 	},{
 		topic: 'Classification and Metaclassifiers',
 		date: 'September 20, 2022',
-		link: '/ppt/Lecture7.BoostingOnly.pdf'
+		// link: '/ppt/Lecture7.BoostingOnly.pdf'
+		link: '#'
 	},{
 		topic: 'Face Detection',
 		date: 'September 22, 2022',
-		link: '/ppt/Lecture8.facedetection.pdf'
+		// link: '/ppt/Lecture8.facedetection.pdf'
+		link: '#'
 	},
 	{
 		topic: 'Non-Negative Matrix Factorization',
 		date: 'September 27, 2022',
-		link: '/ppt/Lecture9.NMF.pdf'
+		// link: '/ppt/Lecture9.NMF.pdf'
+		link: '#'
 	},{
 		topic: 'Probability and Information Theory',
 		date: 'September 29, 2022',
-		link: '/ppt/Lecture10.ProbInfoth.pdf'
+		// link: '/ppt/Lecture10.ProbInfoth.pdf'
+		link: '#'
 	},{
 		topic: 'Independent Component Analysis 1',
 		date: 'October 4, 2022',
-		link: '/ppt/Lecture ICA new2.pdf'
+		// link: '/ppt/Lecture ICA new2.pdf'
+		link: '#'
 	},{
 		topic: 'Independent Component Analysis 2',
 		date: 'October 6, 2022',
-		link: '/ppt/Lecture ICA new2.pdf'
+		// link: '/ppt/Lecture ICA new2.pdf'
+		link: '#'
 	},{
 		topic: 'Clustering',
 		date: 'October 11, 2022',
-		link: '/ppt/Lecture13.clustering.pdf'
+		// link: '/ppt/Lecture13.clustering.pdf'
+		link: '#'
 	},{
 		topic: 'Dictionary Representations',
 		date: 'October 13, 2022',
-		link: '/ppt/Lecture14 sparseovercomplete.pdf'
+		// link: '/ppt/Lecture14 sparseovercomplete.pdf'
+		link: '#'
 	},{
 		topic: 'Happy break !!!',
 		date: 'October 18, 2022',
@@ -69,39 +82,48 @@ const lectures = [
 	},{
 		topic: 'Guest Lecture: Compressed Sensing',
 		date: 'October 25, 2022',
-		link: '/ppt/21_10_Bhiksha.pdf'
+		// link: '/ppt/21_10_Bhiksha.pdf'
+		link: '#'
 	},{
 		topic: 'Regression and Prediction',
 		date: 'October 27, 2022',
-		link: '/ppt/Lecture15.regression.pdf'
+		// link: '/ppt/Lecture15.regression.pdf'
+		link: '#'
 	},{
 		topic: 'Linear Classifiers',
 		date: 'November 1, 2022',
-		link: '/ppt/lec17 SVM.pdf'
+		// link: '/ppt/lec17 SVM.pdf'
+		link: '#'
 	},{
 		topic: 'Expectation Maximization 1',
 		date: 'November 3, 2022',
-		link: '/ppt/EMpdf.pdf'
+		// link: '/ppt/EMpdf.pdf'
+		link: '#'
 	},{
 		topic: 'Expectation Maximization 2',
 		date: 'November 8, 2022',
-		link: '/ppt/EMpdf.pdf'
+		// link: '/ppt/EMpdf.pdf'
+		link: '#'
 	},{
 		topic: 'Factor Analysis',
 		date: 'November 10, 2022',
-		link: '/ppt/lsc20 FA.pdf'
+		// link: '/ppt/lsc20 FA.pdf'
+		link: '#'
 	},{
 		topic: 'Supervised Representations',
 		date: 'November 15, 2022',
-		link: '/ppt/Lecture21.CCA_LDA.pdf'
+		// link: '/ppt/Lecture21.CCA_LDA.pdf'
+		link: '#'
 	},{
 		topic: 'Hidden Markov Models 1',
 		date: 'November 17, 2022',
-		link: '/ppt/Lecture22.HMM.pdf'
+		// link: '/ppt/Lecture22.HMM.pdf'
+		link: '#'
 	},{
 		topic: 'Hidden Markov Models 2',
 		date: 'November 22, 2022',
-		link: '/ppt/Lecture22.HMM v2.pdf'
+		// link: '/ppt/Lecture22.HMM v2.pdf'
+		link: '#'
 	},{
 		topic: 'Happy Thanksgiving!',
 		date: 'November 24, 2022',
@@ -109,19 +131,23 @@ const lectures = [
 	},{
 		topic: 'Non-Linear Dynamical Systems',
 		date: 'November 29, 2022',
-		link: '/ppt/Nonlinear Dynamics.pdf'
+		// link: '/ppt/Nonlinear Dynamics.pdf'
+		link: '#'
 	},{
 		topic: 'Kalman Filtering 1',
 		date: 'December 1, 2022',
-		link: '/ppt/Lecture23.pdf'
+		// link: '/ppt/Lecture23.pdf'
+		link: '#'
 	},{
 		topic: 'Kalman Filtering 2',
 		date: 'December 6, 2022',
-		link: '/ppt/Lecture24x.kalman.pdf'
+		// link: '/ppt/Lecture24x.kalman.pdf'
+		link: '#'
 	},{
 		topic: 'Particle Filtering',
 		date: 'December 8, 2022',
-		link: '/ppt/Lecture24x.kalman.pdf'
+		// link: '/ppt/Lecture24x.kalman.pdf'
+		link: '#'
 	}
 ]
 export default function LectureListSection() {
