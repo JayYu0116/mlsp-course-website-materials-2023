@@ -2,7 +2,7 @@ export default function ProjectFinalSection() {
 	return (
 		<div className="py-2 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 			<h2 className="text-3xl leading-9 font-extrabold tracking-tight sm:text-4xl my-2">
-				Project Final Report
+				Challenge Final Report
 			</h2>
 			<span className="inline-flex items-center px-2.5 py-0.5 rounded-md text-sm font-medium bg-green-100 text-green-800">
 				Due Date
