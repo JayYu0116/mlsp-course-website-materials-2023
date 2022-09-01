@@ -7,8 +7,7 @@ const lectures = [
 	{
 		topic: 'Linear Algebra 1',
 		date: 'September 1, 2022',
-		// link: '/ppt/Lec2 LinearAlgebra1.pdf'
-		link: '#'
+		link: '/ppt/Lec2 LinearAlgebra1.pdf'
 	},
 	{
 		topic: 'Linear Algebra 2',
