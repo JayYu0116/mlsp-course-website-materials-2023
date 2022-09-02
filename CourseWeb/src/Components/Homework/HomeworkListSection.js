@@ -12,7 +12,7 @@ const assignments = [
 			},
 			{
 				title: 'Data',
-				link: '/hw/hw1materials_f22.zip'
+				link: '/hw/hw1materials_f22.rar'
 			}
 		]
 	},{
