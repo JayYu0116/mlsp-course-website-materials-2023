@@ -8,13 +8,11 @@ const assignments = [
 		attachments: [
 			{
 				title: 'Writeup',
-				// link: '/hw/hw1writeup.pdf'
-				link: '#'
+				link: '/hw/hw1writeup_f22.pdf'
 			},
 			{
 				title: 'Data',
-				// link: '/hw/hw1materials.rar'
-				link: '#'
+				link: '/hw/hw1materials_f22.zip'
 			}
 		]
 	},{
