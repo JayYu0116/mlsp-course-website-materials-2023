@@ -12,8 +12,7 @@ const lectures = [
 	{
 		topic: 'Linear Algebra 2',
 		date: 'September 6, 2022',
-		// link: '/ppt/Lec3  LinearAlgebra2.pdf'
-		link: '#'
+		link: '/ppt/Lec3  LinearAlgebra2.pdf'
 	},{
 		topic: 'Optimization',
 		date: 'September 8, 2022',
