@@ -2,22 +2,21 @@ const lectures = [
 	{
 		topic: 'Introduction',
 		date: 'August 30, 2022',
-		link: '/ppt/Lecture1.Introduction.pdf'
+		link: '/ppt/Lecture1_Introduction.pdf'
 	}, 
 	{
 		topic: 'Linear Algebra 1',
 		date: 'September 1, 2022',
-		link: '/ppt/Lec2 LinearAlgebra1.pdf'
+		link: '/ppt/Lecture2_LinearAlgebra1.pdf'
 	},
 	{
 		topic: 'Linear Algebra 2',
 		date: 'September 6, 2022',
-		link: '/ppt/Lec3 LinearAlgebra2.pdf'
+		link: '/ppt/Lecture3_LinearAlgebra2.pdf'
 	},{
 		topic: 'Optimization',
 		date: 'September 8, 2022',
-		// link: '/ppt/Lec4 with extension.rar'
-		link: '#'
+		link: '/ppt/Lecture4_Optimization.pdf'
 	},{
 		topic: 'Deterministic Representations 1',
 		date: 'September 13, 2022',
