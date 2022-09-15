@@ -24,8 +24,7 @@ const lectures = [
 	},{
 		topic: 'Data-Driven Representations 2',
 		date: 'September 15, 2022',
-		// link: '/ppt/Lecture6.EigenRepresentations.pdf'
-		link: '#'
+		link: '/ppt/Lecture6_EigenRepresentations.pdf'
 	},{
 		topic: 'Classification and Metaclassifiers',
 		date: 'September 20, 2022',
