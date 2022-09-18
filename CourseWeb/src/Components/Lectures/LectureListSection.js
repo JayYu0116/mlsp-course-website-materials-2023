@@ -18,11 +18,11 @@ const lectures = [
 		date: 'September 8, 2022',
 		link: '/ppt/Lecture4_Optimization.pdf'
 	},{
-		topic: 'Deterministic Representations 1',
+		topic: 'Deterministic Representations',
 		date: 'September 13, 2022',
 		link: '/ppt/Lecture5_DeterministicRepresentations.pdf'
 	},{
-		topic: 'Data-Driven Representations 2',
+		topic: 'Data-Driven Representations',
 		date: 'September 15, 2022',
 		link: '/ppt/Lecture6_EigenRepresentations.pdf'
 	},{
