@@ -28,8 +28,7 @@ const lectures = [
 	},{
 		topic: 'Classification and Metaclassifiers',
 		date: 'September 20, 2022',
-		// link: '/ppt/Lecture7.BoostingOnly.pdf'
-		link: '#'
+		link: '/ppt/Lecture7_BoostingandFacedetectionCMU.pdf'
 	},{
 		topic: 'Face Detection',
 		date: 'September 22, 2022',
