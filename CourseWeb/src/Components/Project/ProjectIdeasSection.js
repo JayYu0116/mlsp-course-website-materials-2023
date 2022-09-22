@@ -9,7 +9,7 @@ export default function ProjectIdeasSection() {
 			</p>
 			<p className="text-xl leading-7 text-gray-500 mb-4">
 				<a href='/project/MLSP_F22_Challenge.pdf' className="text-indigo-600">
-					Class Chanllenges Writeup
+					Class Chanllenge Writeup
 				</a>
 			</p>
 		</div>
