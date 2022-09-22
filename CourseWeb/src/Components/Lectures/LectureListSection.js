@@ -32,8 +32,7 @@ const lectures = [
 	},{
 		topic: 'Face Detection',
 		date: 'September 22, 2022',
-		// link: '/ppt/Lecture8.facedetection.pdf'
-		link: '#'
+		link: '/ppt/Lecture8_Facedetection.pdf'
 	},
 	{
 		topic: 'Non-Negative Matrix Factorization',
