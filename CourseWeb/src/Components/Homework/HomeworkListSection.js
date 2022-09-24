@@ -18,18 +18,15 @@ const assignments = [
 	},{
 		title: 'Second Assignment',
 		description: 'Data-Driven Representations, Boosting, Face Detection',
-		// dueDate: '10/12/2022 at 11:59 PM EST/EDT',
-		dueDate: 'TBA',
+		dueDate: '10/13/2022 at 11:59 PM EST/EDT',
 		attachments: [
 			{
 				title: 'Writeup',
-				// link: '/hw/hw2_handout (1).pdf'
-				link: '#'
+				link: '/hw/hw2writeup_f22.pdf'
 			},
 			{
 				title: 'Data',
-				// link: '/hw/hw2_materials_f21.rar'
-				link: '#'
+				link: '/hw/hw2materials_f22.rar'
 			}
 		]
 	},{
