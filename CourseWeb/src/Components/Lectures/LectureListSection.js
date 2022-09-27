@@ -37,8 +37,7 @@ const lectures = [
 	{
 		topic: 'Non-Negative Matrix Factorization',
 		date: 'September 27, 2022',
-		// link: '/ppt/Lecture9.NMF.pdf'
-		link: '#'
+		link: '/ppt/Lecture9_NonNegativeMatrixFactorization.pdf'
 	},{
 		topic: 'Probability and Information Theory',
 		date: 'September 29, 2022',
