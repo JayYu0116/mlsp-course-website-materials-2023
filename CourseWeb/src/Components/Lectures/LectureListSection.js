@@ -41,8 +41,7 @@ const lectures = [
 	},{
 		topic: 'Probability and Information Theory',
 		date: 'September 29, 2022',
-		// link: '/ppt/Lecture10.ProbInfoth.pdf'
-		link: '#'
+		link: '/ppt/Lecture10_Probability&InformationTheory.pdf'
 	},{
 		topic: 'Independent Component Analysis 1',
 		date: 'October 4, 2022',
