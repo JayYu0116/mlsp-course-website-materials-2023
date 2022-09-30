@@ -15,7 +15,7 @@ export default function ProjectProposalSection() {
 				<a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx" className="text-indigo-600">
 					NeurIPS 2022 style template&nbsp;
 				</a>
-				and not be longer than two pages. Your team's proposal should be submitted as a PDF using Canvas. Each group only needs to submit one copy of the proposal. You can submit your proposal as many times as you need before the deadline. Please name your PDF "proposal-{"{group number}"}.pdf".
+				and not be longer than two pages. Your team's proposal should be submitted as a PDF using Canvas. Each group only needs to submit one copy of the proposal. You can submit your proposal as many times as you need before the deadline. Please name your PDF "proposal_{"{group number}"}.pdf".
 			</p>
 			<ul className="list-disc text-xl leading-7 text-gray-500 mb-4 pl-12">
 				<li>
