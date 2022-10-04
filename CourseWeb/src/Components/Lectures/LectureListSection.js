@@ -45,8 +45,7 @@ const lectures = [
 	},{
 		topic: 'Independent Component Analysis 1',
 		date: 'October 4, 2022',
-		// link: '/ppt/Lecture ICA new2.pdf'
-		link: '#'
+		link: '/ppt/Lecture11_ICA.pdf'
 	},{
 		topic: 'Independent Component Analysis 2',
 		date: 'October 6, 2022',
