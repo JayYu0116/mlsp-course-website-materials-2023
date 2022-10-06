@@ -43,21 +43,20 @@ const lectures = [
 		date: 'September 29, 2022',
 		link: '/ppt/Lecture10_Probability&InformationTheory.pdf'
 	},{
-		topic: 'Independent Component Analysis 1',
+		topic: 'Independent Component Analysis',
 		date: 'October 4, 2022',
 		link: '/ppt/Lecture11_ICA.pdf'
 	},{
-		topic: 'Independent Component Analysis 2',
-		date: 'October 6, 2022',
-		// link: '/ppt/Lecture ICA new2.pdf'
-		link: '#'
-	},{
 		topic: 'Clustering',
+		date: 'October 6, 2022',
+		link: '/ppt/Lecture12_Clustering.pdf'
+	},{
+		topic: 'Dictionary Representations',
 		date: 'October 11, 2022',
 		// link: '/ppt/Lecture13.clustering.pdf'
 		link: '#'
 	},{
-		topic: 'Dictionary Representations',
+		topic: 'Guest Lecture: Compressed Sensing',
 		date: 'October 13, 2022',
 		// link: '/ppt/Lecture14 sparseovercomplete.pdf'
 		link: '#'
@@ -70,47 +69,47 @@ const lectures = [
 		date: 'October 20, 2022',
 		link: '#'
 	},{
-		topic: 'Guest Lecture: Compressed Sensing',
+		topic: 'Regression and Prediction',
 		date: 'October 25, 2022',
 		// link: '/ppt/21_10_Bhiksha.pdf'
 		link: '#'
 	},{
-		topic: 'Regression and Prediction',
+		topic: 'Linear Classifiers',
 		date: 'October 27, 2022',
 		// link: '/ppt/Lecture15.regression.pdf'
 		link: '#'
 	},{
-		topic: 'Linear Classifiers',
+		topic: 'Expectation Maximization 1',
 		date: 'November 1, 2022',
 		// link: '/ppt/lec17 SVM.pdf'
 		link: '#'
 	},{
-		topic: 'Expectation Maximization 1',
+		topic: 'Expectation Maximization 2',
 		date: 'November 3, 2022',
 		// link: '/ppt/EMpdf.pdf'
 		link: '#'
 	},{
-		topic: 'Expectation Maximization 2',
+		topic: 'Factor Analysis',
 		date: 'November 8, 2022',
 		// link: '/ppt/EMpdf.pdf'
 		link: '#'
 	},{
-		topic: 'Factor Analysis',
+		topic: 'Supervised Representations',
 		date: 'November 10, 2022',
 		// link: '/ppt/lsc20 FA.pdf'
 		link: '#'
 	},{
-		topic: 'Supervised Representations',
+		topic: 'Hidden Markov Models 1',
 		date: 'November 15, 2022',
 		// link: '/ppt/Lecture21.CCA_LDA.pdf'
 		link: '#'
 	},{
-		topic: 'Hidden Markov Models 1',
+		topic: 'Hidden Markov Models 2',
 		date: 'November 17, 2022',
 		// link: '/ppt/Lecture22.HMM.pdf'
 		link: '#'
 	},{
-		topic: 'Hidden Markov Models 2',
+		topic: 'Non-Linear Dynamical Systems',
 		date: 'November 22, 2022',
 		// link: '/ppt/Lecture22.HMM v2.pdf'
 		link: '#'
@@ -119,22 +118,22 @@ const lectures = [
 		date: 'November 24, 2022',
 		link: '#'
 	},{
-		topic: 'Non-Linear Dynamical Systems',
+		topic: 'Kalman Filtering 1',
 		date: 'November 29, 2022',
 		// link: '/ppt/Nonlinear Dynamics.pdf'
 		link: '#'
 	},{
-		topic: 'Kalman Filtering 1',
+		topic: 'Kalman Filtering 2',
 		date: 'December 1, 2022',
 		// link: '/ppt/Lecture23.pdf'
 		link: '#'
 	},{
-		topic: 'Kalman Filtering 2',
+		topic: 'Particle Filtering 1',
 		date: 'December 6, 2022',
 		// link: '/ppt/Lecture24x.kalman.pdf'
 		link: '#'
 	},{
-		topic: 'Particle Filtering',
+		topic: 'Particle Filtering 2',
 		date: 'December 8, 2022',
 		// link: '/ppt/Lecture24x.kalman.pdf'
 		link: '#'
