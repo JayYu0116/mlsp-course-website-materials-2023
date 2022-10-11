@@ -53,8 +53,7 @@ const lectures = [
 	},{
 		topic: 'Dictionary Representations',
 		date: 'October 11, 2022',
-		// link: '/ppt/Lecture13.clustering.pdf'
-		link: '#'
+		link: '/ppt/Lecture13_SparseOvercomplete.pdf'
 	},{
 		topic: 'Guest Lecture: Compressed Sensing',
 		date: 'October 13, 2022',
