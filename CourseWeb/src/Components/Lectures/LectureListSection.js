@@ -55,10 +55,9 @@ const lectures = [
 		date: 'October 11, 2022',
 		link: '/ppt/Lecture13_SparseOvercomplete.pdf'
 	},{
-		topic: 'Guest Lecture: Compressed Sensing',
+		topic: 'Guest Lecture: Compressive Sensing',
 		date: 'October 13, 2022',
-		// link: '/ppt/Lecture14 sparseovercomplete.pdf'
-		link: '#'
+		link: '/ppt/Lecture14_CompressiveSensing.pptx'
 	},{
 		topic: 'Happy break !!!',
 		date: 'October 18, 2022',
