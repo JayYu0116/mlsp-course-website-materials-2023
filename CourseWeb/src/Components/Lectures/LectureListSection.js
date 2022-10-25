@@ -69,8 +69,7 @@ const lectures = [
 	},{
 		topic: 'Regression and Prediction',
 		date: 'October 25, 2022',
-		// link: '/ppt/21_10_Bhiksha.pdf'
-		link: '#'
+		link: '/ppt/Lecture15_Regression&Prediction.pdf'
 	},{
 		topic: 'Linear Classifiers',
 		date: 'October 27, 2022',

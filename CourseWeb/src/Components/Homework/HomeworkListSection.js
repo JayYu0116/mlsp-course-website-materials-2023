@@ -32,18 +32,15 @@ const assignments = [
 	},{
 		title: 'Third Assignment',
 		description: 'NMF, Clustering, Sparse Optimization, SVMs',
-		// dueDate: '11/04/2022 at 11:59 PM EST/EDT',
-		dueDate: 'TBA',
+		dueDate: '11/10/2022 at 11:59 PM EST/EDT',
 		attachments: [
 			{
 				title: 'Writeup',
-				// link: '/hw/hw3_handout.pdf'
-				link: '#'
+				link: '/hw/hw3writeup_f22.pdf'
 			},
 			{
 				title: 'Data',
-				// link: '/hw/hw3_materials_f21.zip'
-				link: '#'
+				link: '/hw/hw3materials_f22.rar'
 			}
 		]
 	},{
