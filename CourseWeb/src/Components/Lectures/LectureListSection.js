@@ -73,7 +73,7 @@ const lectures = [
 	},{
 		topic: 'Time Series Predication',
 		date: 'October 27, 2022',
-		link: 'Lecture16_TimeSeriesPredication'
+		link: '/ppt/Lecture16_TimeSeriesPredication.pptx'
 	},{
 		topic: 'Linear Classifiers',
 		date: 'November 1, 2022',
