@@ -71,66 +71,65 @@ const lectures = [
 		date: 'October 25, 2022',
 		link: '/ppt/Lecture15_Regression&Prediction.pdf'
 	},{
-		topic: 'Linear Classifiers',
+		topic: 'Time Series Predication',
 		date: 'October 27, 2022',
+		link: 'Lecture16_TimeSeriesPredication'
+	},{
+		topic: 'Linear Classifiers',
+		date: 'November 1, 2022',
 		// link: '/ppt/Lecture15.regression.pdf'
 		link: '#'
 	},{
 		topic: 'Expectation Maximization 1',
-		date: 'November 1, 2022',
+		date: 'November 3, 2022',
 		// link: '/ppt/lec17 SVM.pdf'
 		link: '#'
 	},{
 		topic: 'Expectation Maximization 2',
-		date: 'November 3, 2022',
-		// link: '/ppt/EMpdf.pdf'
-		link: '#'
-	},{
-		topic: 'Factor Analysis',
 		date: 'November 8, 2022',
 		// link: '/ppt/EMpdf.pdf'
 		link: '#'
 	},{
-		topic: 'Supervised Representations',
+		topic: 'Factor Analysis',
 		date: 'November 10, 2022',
+		// link: '/ppt/EMpdf.pdf'
+		link: '#'
+	},{
+		topic: 'Supervised Representations',
+		date: 'November 15, 2022',
 		// link: '/ppt/lsc20 FA.pdf'
 		link: '#'
 	},{
 		topic: 'Hidden Markov Models 1',
-		date: 'November 15, 2022',
+		date: 'November 17, 2022',
 		// link: '/ppt/Lecture21.CCA_LDA.pdf'
 		link: '#'
 	},{
 		topic: 'Hidden Markov Models 2',
-		date: 'November 17, 2022',
+		date: 'November 22, 2022',
 		// link: '/ppt/Lecture22.HMM.pdf'
 		link: '#'
 	},{
 		topic: 'Non-Linear Dynamical Systems',
-		date: 'November 22, 2022',
+		date: 'November 24, 2022',
 		// link: '/ppt/Lecture22.HMM v2.pdf'
 		link: '#'
 	},{
 		topic: 'Happy Thanksgiving!',
-		date: 'November 24, 2022',
+		date: 'November 29, 2022',
 		link: '#'
 	},{
 		topic: 'Kalman Filtering 1',
-		date: 'November 29, 2022',
+		date: 'December 1, 2022',
 		// link: '/ppt/Nonlinear Dynamics.pdf'
 		link: '#'
 	},{
 		topic: 'Kalman Filtering 2',
-		date: 'December 1, 2022',
+		date: 'December 6, 2022',
 		// link: '/ppt/Lecture23.pdf'
 		link: '#'
 	},{
-		topic: 'Particle Filtering 1',
-		date: 'December 6, 2022',
-		// link: '/ppt/Lecture24x.kalman.pdf'
-		link: '#'
-	},{
-		topic: 'Particle Filtering 2',
+		topic: 'Particle Filtering',
 		date: 'December 8, 2022',
 		// link: '/ppt/Lecture24x.kalman.pdf'
 		link: '#'
