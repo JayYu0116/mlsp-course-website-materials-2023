@@ -77,8 +77,7 @@ const lectures = [
 	},{
 		topic: 'Linear Classifiers',
 		date: 'November 1, 2022',
-		// link: '/ppt/Lecture15.regression.pdf'
-		link: '#'
+		link: '/ppt/Lecture17_SVM.pdf'
 	},{
 		topic: 'Expectation Maximization 1',
 		date: 'November 3, 2022',
