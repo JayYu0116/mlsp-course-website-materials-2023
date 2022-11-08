@@ -80,13 +80,11 @@ const lectures = [
 		link: '/ppt/Lecture17_SVM.pdf'
 	},{
 		topic: 'Expectation Maximization 1',
-		date: 'November 3, 2022',
-		// link: '/ppt/lec17 SVM.pdf'
-		link: '#'
+		date: 'November 8, 2022',
+		link: '/ppt/Lecture18_EM_1.pdf'
 	},{
 		topic: 'Expectation Maximization 2',
-		date: 'November 8, 2022',
-		// link: '/ppt/EMpdf.pdf'
+		date: 'TBD',
 		link: '#'
 	},{
 		topic: 'Factor Analysis',
