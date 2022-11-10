@@ -84,11 +84,11 @@ const lectures = [
 		link: '/ppt/Lecture18_EM_1.pdf'
 	},{
 		topic: 'Expectation Maximization 2',
-		date: 'TBD',
-		link: '#'
+		date: 'November 10, 2022',
+		link: '/ppt/Lecture19_EM_2.pdf'
 	},{
 		topic: 'Factor Analysis',
-		date: 'November 10, 2022',
+		date: 'TBD',
 		// link: '/ppt/EMpdf.pdf'
 		link: '#'
 	},{
