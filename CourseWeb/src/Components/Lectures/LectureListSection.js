@@ -88,12 +88,11 @@ const lectures = [
 		link: '/ppt/Lecture19_EM2.pdf'
 	},{
 		topic: 'Factor Analysis',
-		date: 'TBD',
-		// link: '/ppt/EMpdf.pdf'
-		link: '#'
+		date: 'November 15, 2022',
+		link: '/ppt/Lecture20_FA.pdf'
 	},{
 		topic: 'Supervised Representations',
-		date: 'November 15, 2022',
+		date: 'TBD',
 		// link: '/ppt/lsc20 FA.pdf'
 		link: '#'
 	},{
