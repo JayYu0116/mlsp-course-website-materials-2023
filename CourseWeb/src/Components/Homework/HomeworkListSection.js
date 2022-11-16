@@ -46,32 +46,15 @@ const assignments = [
 	},{
 		title: 'Fourth Assignment',
 		description: 'Maximum Likelihood Estimation, Expectation Maximization',
-		// dueDate: '11/23/2022 at 11:59 PM EST/EDT',
-		dueDate: 'TBA',
+		dueDate: '11/30/2022 at 11:59 PM EST/EDT',
 		attachments: [
 			{
 				title: 'Writeup',
-				// link: '/hw/hw4_handout.pdf'
-				link: '#'
+				link: '/hw/hw4writeup_f22.pdf'
 			},
 			{
 				title: 'Data',
-				// link: '/hw/hw4materials_f21.zip'
-				link: '#'
-			}
-		]
-	},{
-		title: 'Fifth Assignment',
-		description: 'TBA',
-		dueDate: 'TBA',
-		attachments: [
-			{
-				title: 'Writeup',
-				link: '#'
-			},
-			{
-				title: 'Data',
-				link: '#'
+				link: '/hw/hw4materials_f22.rar'
 			}
 		]
 	}
