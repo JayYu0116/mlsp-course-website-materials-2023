@@ -98,8 +98,7 @@ const lectures = [
 	},{
 		topic: 'Hidden Markov Models 1',
 		date: 'November 17, 2022',
-		// link: '/ppt/Lecture21.CCA_LDA.pdf'
-		link: '#'
+		link: '/ppt/Lecture21_HMM1.pdf'
 	},{
 		topic: 'Hidden Markov Models 2',
 		date: 'November 22, 2022',
