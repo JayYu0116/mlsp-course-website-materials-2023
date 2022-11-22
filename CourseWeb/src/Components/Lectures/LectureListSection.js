@@ -102,8 +102,7 @@ const lectures = [
 	},{
 		topic: 'Hidden Markov Models 2',
 		date: 'November 22, 2022',
-		// link: '/ppt/Lecture22.HMM.pdf'
-		link: '#'
+		link: '/ppt/Lecture22_HMM2.pdf'
 	},{
 		topic: 'Non-Linear Dynamical Systems',
 		date: 'November 24, 2022',
