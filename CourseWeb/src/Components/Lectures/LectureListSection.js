@@ -105,7 +105,7 @@ const lectures = [
 	},{
 		topic: 'Supervised Representations',
 		date: 'November 29, 2022',
-		link: '#'
+		link: '/ppt/Lecture23_CCA_LDA.pdf'
 	},{
 		topic: 'Kalman Filtering 1',
 		date: 'December 1, 2022',
