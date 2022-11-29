@@ -59,11 +59,11 @@ const lectures = [
 		date: 'October 13, 2022',
 		link: '/ppt/Lecture14_CompressiveSensing.pptx'
 	},{
-		topic: 'Happy break !!!',
+		topic: 'Happy break!',
 		date: 'October 18, 2022',
 		link: '#'
 	},{
-		topic: 'Happy break !!!',
+		topic: 'Happy break!',
 		date: 'October 20, 2022',
 		link: '#'
 	},{
@@ -91,11 +91,6 @@ const lectures = [
 		date: 'November 15, 2022',
 		link: '/ppt/Lecture20_FA.pdf'
 	},{
-		topic: 'Supervised Representations',
-		date: 'TBD',
-		// link: '/ppt/lsc20 FA.pdf'
-		link: '#'
-	},{
 		topic: 'Hidden Markov Models 1',
 		date: 'November 17, 2022',
 		link: '/ppt/Lecture21_HMM1.pdf'
@@ -104,12 +99,11 @@ const lectures = [
 		date: 'November 22, 2022',
 		link: '/ppt/Lecture22_HMM2.pdf'
 	},{
-		topic: 'Non-Linear Dynamical Systems',
+		topic: 'Happy Thanksgiving!',
 		date: 'November 24, 2022',
-		// link: '/ppt/Lecture22.HMM v2.pdf'
 		link: '#'
 	},{
-		topic: 'Happy Thanksgiving!',
+		topic: 'Supervised Representations',
 		date: 'November 29, 2022',
 		link: '#'
 	},{
