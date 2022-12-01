@@ -109,8 +109,7 @@ const lectures = [
 	},{
 		topic: 'Kalman Filtering 1',
 		date: 'December 1, 2022',
-		// link: '/ppt/Nonlinear Dynamics.pdf'
-		link: '#'
+		link: '/ppt/Lecture24_KalmanFilter.pdf'
 	},{
 		topic: 'Kalman Filtering 2',
 		date: 'December 6, 2022',
