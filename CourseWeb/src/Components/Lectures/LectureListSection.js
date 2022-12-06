@@ -113,8 +113,7 @@ const lectures = [
 	},{
 		topic: 'Kalman Filtering 2',
 		date: 'December 6, 2022',
-		// link: '/ppt/Lecture23.pdf'
-		link: '#'
+		link: '/ppt/Lecture25_KalmanFilter2.pdf'
 	},{
 		topic: 'Particle Filtering',
 		date: 'December 8, 2022',
