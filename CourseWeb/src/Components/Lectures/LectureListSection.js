@@ -117,8 +117,7 @@ const lectures = [
 	},{
 		topic: 'Particle Filtering',
 		date: 'December 8, 2022',
-		// link: '/ppt/Lecture24x.kalman.pdf'
-		link: '#'
+		link: '/ppt/Lecture26_KalmanFilter3.pdf'
 	}
 ]
 export default function LectureListSection() {
